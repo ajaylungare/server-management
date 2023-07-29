@@ -1,1 +1,1 @@
-# server-managment
+# server-management
